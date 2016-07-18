@@ -1,0 +1,31 @@
+{
+  "name": "angular-subdomains",
+  "version": "1.0.0",
+  "description": "Grab subdomain information in angularjs and inject it anywhere in your app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shantanubhadoria/angular-subdomains.git"
+  },
+  "keywords": [
+    "angular",
+    "framework",
+    "browser",
+    "html",
+    "client-side",
+    "subdomains"
+  ],
+  "author": {
+    "name": "Shantanu Bhadoria",
+    "email": "shantanu@cpan.org"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shantanubhadoria/angular-subdomains/issues"
+  },
+  "homepage": "https://github.com/shantanubhadoria/angular-subdomains#readme",
+  "readme":
+}
