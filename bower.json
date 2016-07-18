@@ -1,0 +1,10 @@
+{
+  "name": "angular-subdomains",
+  "version": "1.0.0",
+  "license": "MIT",
+  "main": "./angular-subdomains.js",
+  "ignore": [],
+  "dependencies": {
+    "angular": "1.2.29"
+  }
+}
