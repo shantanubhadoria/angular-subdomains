@@ -10,6 +10,6 @@
       if (host.indexOf('.') < 0)
           return null;
       else
-          return host.split('.')[0];
+          return host.split('.');
   }]);
-)(window, window.angular);;
+})(window, window.angular);
