@@ -1,3 +1,8 @@
+## Description
+
+This package breaks down subdomain data into an array and returns it.
+e.g. If your host is abc.blogs.com This would return ['abc','blogs','com']. Note that the port number if any is ignored.
+
 ## Install
 
 You can install this package either with `npm` or with `bower`.

@@ -1,6 +1,6 @@
 {
   "name": "angular-subdomains",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Grab subdomain information in angularjs and inject it anywhere in your app",
   "main": "index.js",
   "scripts": {
