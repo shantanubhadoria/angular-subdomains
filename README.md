@@ -16,7 +16,7 @@ npm install angular-subdomains
 Then add `subdomains` as a dependency for your app:
 
 ```javascript
-angular.module('myApp', [require('angular-subdomains')]);
+angular.module('myApp', [require('subdomains')]);
 ```
 
 ### bower
