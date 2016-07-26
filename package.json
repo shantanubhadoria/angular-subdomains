@@ -1,6 +1,6 @@
 {
   "name": "angular-subdomains",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Grab subdomain information in angularjs and inject it anywhere in your app",
   "main": "index.js",
   "scripts": {
@@ -18,6 +18,9 @@
     "client-side",
     "subdomains"
   ],
+  "dependencies": {
+    "angular": "^1.2.29"
+  },
   "author": {
     "name": "Shantanu Bhadoria",
     "email": "shantanu@cpan.org"

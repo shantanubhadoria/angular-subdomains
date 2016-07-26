@@ -3,6 +3,12 @@
 This package breaks down subdomain data into an array and returns it.
 e.g. If your host is abc.blogs.com This would return ['abc','blogs','com']. Note that the port number if any is ignored.
 
+## Badges
+
+[![bitHound Overall Score](https://www.bithound.io/github/shantanubhadoria/angular-subdomains/badges/score.svg)](https://www.bithound.io/github/shantanubhadoria/angular-subdomains)
+[![bitHound Dependencies](https://www.bithound.io/github/shantanubhadoria/angular-subdomains/badges/dependencies.svg)](https://www.bithound.io/github/shantanubhadoria/angular-subdomains/master/dependencies/npm)
+[![bitHound Dev Dependencies](https://www.bithound.io/github/shantanubhadoria/angular-subdomains/badges/devDependencies.svg)](https://www.bithound.io/github/shantanubhadoria/angular-subdomains/master/dependencies/npm)
+
 ## Install
 
 You can install this package either with `npm` or with `bower`.

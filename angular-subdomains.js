@@ -3,7 +3,7 @@
  * (c) Shantanu Bhadoria. https://www.shantanubhadoria.com
  * License: MIT
  */
-(function(window, angular) {'use strict';
+(function(angular) {'use strict';
   var name = 'subdomains';
 
   angular.module(
@@ -16,4 +16,4 @@
     else
       return host.split('.');
   }]);
-})(window, window.angular);
+})(window.angular);
