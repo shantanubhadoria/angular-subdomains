@@ -1,4 +1,8 @@
-
+/**
+ * @license angular-subdomains
+ * (c) Shantanu Bhadoria. https://www.shantanubhadoria.com
+ * License: MIT
+ */
 (function(window, angular) {'use strict';
   var name = 'subdomains';
 

@@ -37,6 +37,15 @@ Then add `subdomains` as a dependency for your app:
 angular.module('myApp', ['subdomains']);
 ```
 
+If you are using Ecmascript your may import subdomains module directly
+instead of using `<script>` tag in the index.html as well:
+
+```javascript
+import subdomains from 'angular-subdomains';
+angular.module('myApp', [subdomains]);
+
+```
+
 Now you may inject 'subdomains' as a dependency in your controller as follows:
 
 ```javascript
